@@ -1,0 +1,220 @@
+[
+    {
+        "id":1,
+        "name": "Onion Hair Oil",
+        "category_id": "1",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":2,
+        "name": "Bhringraj Amla Hair Oil",
+        "category_id": "1",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":3,
+        "name": "Argan Hair Oil ",
+        "category_id": "1",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":4,
+        "name": "Almond Hair Oil",
+        "category_id": "1",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":5,
+        "name": "Onion Shampoo",
+        "category_id": "1",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":6,
+        "name": "Tea Tree Shampoo",
+        "category_id": "1",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":7,
+        "name": "Lemon Anti Dandruff Shampoo",
+        "category_id": "1",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":8,
+        "name": "Henna Shampoo",
+        "category_id": "1",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":9,
+        "name": "Onion Conditioner",
+        "category_id": "1",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":10,
+        "name": "Tea Tree Conditioner",
+        "category_id": "1",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":11,
+        "name": "Lemon Anti Dandruff Conditioner",
+        "category_id": "1",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":12,
+        "name": "Henna Conditioner",
+        "category_id": "1",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":13,
+        "name": "Ubtan Face Scrub",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":14,
+        "name": "Coco Face Scrub",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":15,
+        "name": "Green Tea ",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":16,
+        "name": "Rice Face Scrub",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":17,
+        "name": "Charcoal Face Scrub",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":18,
+        "name": "Skin Illuminate Face Cream",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":19,
+        "name": "Honey Malai Face Cream",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":20,
+        "name": "Green Tea Night Face Cream",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":21,
+        "name": "Aloevera Day Face Cream",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":22,
+        "name": "Bye Bye Acne Face Cream",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":23,
+        "name": "Ubtan Face Wash",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":24,
+        "name": "Aqua Glow Face Wash",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":25,
+        "name": "Charcoal Face Wash",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":26,
+        "name": "Tea Tree Face Wash",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":27,
+        "name": "Rose Water Bamboo sheet Mask",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":28,
+        "name": "Hyaluronic Bamboo Sheet Mask",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":29,
+        "name": "Retinol Bamboo Sheet Mask",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    }, 
+    {
+        "id":30,
+        "name": "Coco Bamboo Sheet Mask",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":31,
+        "name": "Vitamin C Bamboo Sheet Mask",
+        "category_id": "2",
+        "image": "",
+        "description": ""
+    }
+   
+]

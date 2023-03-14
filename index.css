@@ -1,0 +1,151 @@
+.light{
+    background-color: white;
+    color:black;
+
+}
+.dark{
+    background-color:black;
+    color:white;
+}
+#top-header{
+    color:white;
+    background-color: rgb(205, 14, 14);
+    
+}
+#mode{
+    height: 35px;
+    width: 35px;
+}
+ ul{
+    list-style-type:none;
+    display: flex;  
+    justify-content: space-between;
+    padding:2px;
+}
+ul li{
+    font-size: x-small;
+}
+ul li a{
+    text-decoration:none;
+}
+.main-header{
+    display:flex;
+}
+.coupon{
+    height: 300px;
+    width: 400px;
+    background-color: rgb(94, 30, 30);
+    position: absolute;margin-top:-15%;
+    margin-left:40%;
+    z-index: 100;
+}
+.search-row {
+    display:flex;
+    padding-top: 5px;
+    padding-left:8%;
+}
+.search-bar{
+    display:flex;
+    padding-top: 5px;
+    padding-left: 30px;
+}
+.search-row img{
+    vertical-align: middle;
+}
+.flex{
+    display:flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.cart, .login{
+    display:flex;
+    margin-left: 5px;
+}
+#cart-img,#login-img .label{
+    margin: 5px;
+}
+.label{padding-bottom:5px}
+.offer {
+    display:flex;
+    margin-left: 10%;
+}
+.goodness{
+    background-image: url(https://i.ibb.co/5BFrDWJ/desktop-home-img.webp);
+    background-size:contain;
+    background-repeat: no-repeat;
+    height: 400px;
+    color:rgba(14, 14, 145, 0.779) !important;
+    align-items: center;
+    position: relative;
+}
+.goodness-text{
+    position: absolute;
+    text-align: center;
+    padding-left: 45%;
+    padding-top: 5%;
+    font-weight: 500;
+}
+.line{
+    border-bottom: 4px solid rgb(49, 117, 49);
+    box-shadow:0 0px 40px 0px ;
+}
+#number{
+    color: rgb(113, 153, 53);
+}
+.product-head{
+    display:block;
+    text-align: center;
+    margin:auto;
+    border-radius: 3px 80px;
+    background-color: rgb(49 169 165 / 89%);
+    width:40%;
+    margin-bottom: 4px;
+}
+.row{
+    display: flex;
+    flex-direction:row;
+    height: auto;
+}
+.col-3{
+    width:20% !important;
+}
+.card:hover{
+    transform: scale(1.03);
+    /* margin:0px 0px; */
+}
+.image{
+    height:30%;
+    width:100%;
+}
+.card-img-top{
+    width: 100%;
+}
+.card-title{
+    font-weight:bold;
+}.card{
+    box-shadow:4px 2px #33a57e;
+    margin-top:3px;
+}
+.btn a, .card-a{
+    color:white !important;
+    text-decoration:none;
+}
+.card-footer{
+    background-color: white;
+    border-top:white !important; 
+}
+.FAQ{
+    text-align: center;
+    align-items: center;
+}
+.contact,.view-product{
+    align-items: center;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+.social-media a{
+    text-decoration: none;
+}
+

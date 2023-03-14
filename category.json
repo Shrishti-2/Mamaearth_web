@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "category":"Hair"
+    },
+    {
+        "id":"2",
+        "category":"Face"
+    },
+    {
+        "id":"3",
+        "category":"Baby"
+    },
+    {
+        "id":"4",
+        "category":"makeup"
+    },
+    {
+        "id":"5",
+        "category":"Body"
+    }
+    
+]
