@@ -218,31 +218,36 @@
     },
     {
         "id":32,
-        "name": "Hair Oil For Babies Almond ",
+        "name": "Hair Oil For Babies with Almond & Avocado ",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description": "Treat Dry Scalp | Stimulates New Hair Growth",
+        "cost":"399"
     },
     {
         "id":33,
         "name": "Massage Oil for Babies",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description": "Gently Cleanses Skin|Sulfate-Free|Fruity Essence",
+        "cost":"399"
+        
     },
     {
         "id":34,
-        "name": "Coco Massage Oil",
+        "name": "CoCo Soft Massage Oil with Coconut & Turmeric",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description": "Deeply Moisturizes Skin|Soothes Itchiness",
+        "cost":"399"
     },
     {
         "id":35,
         "name": "Nourishing Hair Oil",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description": "Gently Cleanses|Retains Moisture",
+        "cost":"399"
     },
     {
         "id":36,
@@ -274,87 +279,102 @@
     },
     {
         "id":40,
-        "name": "",
+        "name": "Organic Bamboo Based Baby Wipes- Pack of 3(72x3)",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description": "Perfect for Sensitive Skin | 100% Organic Bamboo",
+        "cost":"729"
     },
     {
         "id":41,
-        "name": "",
+        "name": "Diaper Pants For Babies- 4-6 kg(Size S)",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description": "2x Absorbtion|12-Hour Leak Protection",
+        "cost":"699"
     },
     {
         "id":42,
-        "name": "Super Strawberry",
+        "name": "Diaper Pants For Babies- 7-12 kg(Size M)",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description": "2x Absorbtion|12-Hour Leak Protection",
+        "cost":"699"
     },
     {
         "id":43,
-        "name": "Super Strawberry",
+        "name": "Diaper Pants For Babies- 9-14 kg(Size L)",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description": "2x Absorbtion|12-Hour Leak Protection",
+        "cost":"699"
     },
     {
         "id":44,
-        "name": "Body Lotion",
+        "name": " Apple Body Lotion",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description": "Gently Nourishes | Makes Skin Soft & Supple",
+        "cost": "399"
     },
     {
         "id":45,
         "name": "Super Strawberry Lotion",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description": "Gently Nourishes | Makes Skin Soft & Supple",
+        "cost": "399"
+    
     },
     {
         "id":46,
         "name": "Brave Blueberry Lotion",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description":"Gently Nourishes | Makes Skin Soft & Supple",
+        "cost": "399"
+    
     },
     {
         "id":47,
         "name": "Mango Body Lotion",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description": "Gently Nourishes | Makes Skin Soft & Supple",
+        "cost": "399"
+    
     },
     {
         "id":48,
         "name": "100 % Berry Blast Toothpaste",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description":  "Cleanses Teeth| Provide Healthy Teeth & Gums",
+        "cost": "149"
     },
     {
         "id":49,
         "name": "Sulfate Free Awesome Orange Toothpaste",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description": "Cleanses Teeth| Provide Healthy Teeth & Gums",
+        "cost": "149"
     },
     {
         "id":50,
         "name": "Mamaearth Fruit Punch Toothpaste",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description":  "Cleanses Teeth| Provide Healthy Teeth & Gums",
+        "cost": "149"
     },
     {
         "id":51,
         "name": "Milky Soft Natural Lip Balm",
         "category_id": "3",
         "image": "",
-        "description": ""
+        "description": "12 Hour Moisturization | Heal Chapped Lips",
+        "cost": "199"
     },
     {
         "id":52,
