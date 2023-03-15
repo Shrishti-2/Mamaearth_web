@@ -215,6 +215,235 @@
         "category_id": "2",
         "image": "",
         "description": ""
+    },
+    {
+        "id":32,
+        "name": "Hair Oil For Babies Almond ",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":33,
+        "name": "Massage Oil for Babies",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":34,
+        "name": "Coco Massage Oil",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":35,
+        "name": "Nourishing Hair Oil",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":36,
+        "name": "Nourishing Bathing Bars",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":37,
+        "name": "Super Strawberry",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":38,
+        "name": "Foaming Face Wash",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":39,
+        "name": "Deeply Nourish Body",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":40,
+        "name": "",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":41,
+        "name": "",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":42,
+        "name": "Super Strawberry",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":43,
+        "name": "Super Strawberry",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":44,
+        "name": "Body Lotion",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":45,
+        "name": "Super Strawberry Lotion",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":46,
+        "name": "Brave Blueberry Lotion",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":47,
+        "name": "Mango Body Lotion",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":48,
+        "name": "100 % Berry Blast Toothpaste",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":49,
+        "name": "Sulfate Free Awesome Orange Toothpaste",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":50,
+        "name": "Mamaearth Fruit Punch Toothpaste",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":51,
+        "name": "Milky Soft Natural Lip Balm",
+        "category_id": "3",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":52,
+        "name": "Long Stay Colored Kajal (Deep Ocean Blue)",
+        "category_id": "4",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":53,
+        "name": "Long Stay Colored Kajal (Forest Green)",
+        "category_id": "4",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":54,
+        "name": "Long Stay Colored Kajal (Charcoal Black)",
+        "category_id": "4",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":55,
+        "name": "Long Stay Colored Kajal (Woody Brown)",
+        "category_id": "4",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":56,
+        "name": "Glow Oil Control Compact (Ivory Glow)",
+        "category_id": "4",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":57,
+        "name": "Glow Oil Control Compact (Nude Glow)",
+        "category_id": "4",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":58,
+        "name": "Glow Oil Control Compact (Almond Glow)",
+        "category_id": "4",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":59,
+        "name": "Glow Oil Control Compact (Creme Glow)",
+        "category_id": "4",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":60,
+        "name": "Naturally Matte Liquid Lipstick (Chocolate Truffle)",
+        "category_id": "4",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":61,
+        "name": "Naturally Matte Liquid Lipstick (Beet It Red)",
+        "category_id": "4",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":62,
+        "name": "Naturally Matte Liquid Lipstick (Pink Daffodil)",
+        "category_id": "4",
+        "image": "",
+        "description": ""
+    },
+    {
+        "id":63,
+        "name": "Naturally Matte Liquid Lipstick (Rosy Nude)",
+        "category_id": "4",
+        "image": "",
+        "description": ""
     }
+    
+    
+   
+   
+
    
 ]
