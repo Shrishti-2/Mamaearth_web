@@ -1,22 +1,22 @@
 [
     {
-        "id":"1",
+        "_id":"1",
         "category":"Hair"
     },
     {
-        "id":"2",
+        "_id":"2",
         "category":"Face"
     },
     {
-        "id":"3",
+        "_id":"3",
         "category":"Baby"
     },
     {
-        "id":"4",
+        "_id":"4",
         "category":"makeup"
     },
     {
-        "id":"5",
+        "_id":"5",
         "category":"Body"
     }
     
