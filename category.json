@@ -1,23 +1,27 @@
 [
     {
         "_id":"1",
-        "category":"Hair"
+        "category":"Hair",
+        "category_id":"1"
     },
     {
         "_id":"2",
-        "category":"Face"
+        "category":"Face",
+        "category_id":"2"
     },
     {
         "_id":"3",
-        "category":"Baby"
+        "category":"Baby",
+        "category_id":3
     },
     {
         "_id":"4",
-        "category":"makeup"
+        "category":"makeup",
+        "category_id":"4"
     },
     {
         "_id":"5",
-        "category":"Body"
-    }
-    
+        "category":"Body",
+        "category_id":"5"
+    }  
 ]
